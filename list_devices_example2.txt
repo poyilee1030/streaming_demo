@@ -1,0 +1,6 @@
+i=0, DirectShow video devices (some may be both video and audio devices)
+i=1, Logi C310 HD WebCam
+i=2, Alternative name @device_pnp_\\?\usb#vid_046d&pid_081b&mi_00#7&3580699f&0&0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global
+i=3, DirectShow audio devices
+i=4, 麥克風 (Logi C310 HD WebCam)
+i=5, Alternative name @device_cm_{33D9A762-90C8-11D0-BD43-00A0C911CE86}\wave_{3513A557-7EE2-48FE-B5B1-A9F8DB4DAB55}

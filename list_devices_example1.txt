@@ -1,0 +1,6 @@
+i=0, DirectShow video devices (some may be both video and audio devices)
+i=1, USB Camera
+i=2, Alternative name @device_pnp_\\?\usb#vid_0c45&pid_636b&mi_00#6&315a9f63&0&0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global
+i=3, DirectShow audio devices
+i=4, 麥克風 (USB 2.0 Camera)
+i=5, Alternative name @device_cm_{33D9A762-90C8-11D0-BD43-00A0C911CE86}\wave_{0685B4EC-37C1-47CC-85F3-20DC229959B5}
