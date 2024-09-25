@@ -1,7 +1,14 @@
+<p float="left">
+  <img src="/snapshot.jpg" width="480" />
+</p>
 
 這個項目主要是展示了使用 QT + FFmpeg 讀取 input
 並將畫面以 OpenGL 呈現出來
 同時提供 photo capture & video recording 功能
+
+<p float="left">
+  <img src="/usb_video_capture.jpg" width="480" />
+</p>
 
 原本專案是使用一個 usb video capture
 但考量大多數人並不會有這個裝置
