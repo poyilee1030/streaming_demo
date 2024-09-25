@@ -1,5 +1,5 @@
 <p float="left">
-  <img src="/snapshot.jpg" width="480" />
+  <img src="/snapshot.jpg" width="720" />
 </p>
 
 這個項目主要是展示了使用 QT + FFmpeg 讀取 input
